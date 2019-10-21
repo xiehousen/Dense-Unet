@@ -30,5 +30,5 @@ The documentation is the data set used to test the code
 # Quick Start
 To train our model on the given dataset using:  
 
-python unet_xueguan_danboduan_densenet.py  
+`<python unet_xueguan_danboduan_densenet.py>` 
 
