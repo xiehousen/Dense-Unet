@@ -1,5 +1,7 @@
 # Dense-Unet
-An idea of combining Densenet and Unet
+An idea of combining Densenet and Unet  
+
+
 
 # Setup
 All code was developed and tested on Nvidia RTX2080Ti the following environment.
