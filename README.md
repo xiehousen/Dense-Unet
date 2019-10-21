@@ -13,3 +13,9 @@ cuda>=8.0
 cudnn>=5.0  
 
 The documentation is the data set used to test the code
+
+# Quick Start
+To train our model on the given dataset using:  
+
+python unet_xueguan_danboduan_densenet.py  
+
